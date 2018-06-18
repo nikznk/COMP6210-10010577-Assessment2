@@ -46,7 +46,7 @@ USE `containerdb`;
 
 
 -- Table structure for table  NavLinks 
-    -- Drop table IF EXISTS  NavLinks ;
+--     Drop table IF EXISTS  NavLinks ;
     -- CREATE TABLE  NavLinks  (
     --  ID  int(10) AUTO_INCREMENT,
     --  Name  varchar(12) NOT NULL,
@@ -243,8 +243,7 @@ USE `containerdb`;
 -- ) AUTO_INCREMENT = 1;
 --  -- Clear data for table  Contact 
 --  -- TRUNCATE TABLE  Contact 
---  INSERT INTO  Contact  (  NAME ,  EMAIL , Message ) VALUES
---  ('Home','index','Home','Home')
+
 
 -- select * from Contact
 

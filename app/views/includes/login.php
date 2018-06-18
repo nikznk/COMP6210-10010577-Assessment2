@@ -3,8 +3,8 @@
         <div class="container">
             <h1>
                 <?php 
-                        if(!empty($data['title'])){
-                        echo $data['title'];  
+                        if(!empty($data['ltitle'])){
+                        echo $data['ltitle'];  
                         } else{ ?> Login
                 <?php } ?>
             </h1>

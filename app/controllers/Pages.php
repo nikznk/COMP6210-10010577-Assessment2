@@ -123,7 +123,7 @@ class Pages extends Controller {
      
         $data = [
 
-            "title" => "Log In",
+            "ltitle" => "Log In",
             'menus'=> $this->menus->getMenus()
         ];
 
